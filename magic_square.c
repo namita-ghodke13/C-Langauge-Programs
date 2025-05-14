@@ -7,7 +7,7 @@ magic square depends on n and is M(n) = (n^3+n)/2. For n=3,4,5, the constants ar
                        9   5   1 → 15
                        4   3   8 → 15
                      ↙ ↓   ↓   ↓ ↘
-                   15  15  15  15  15
+               15  15  15  15  15
 */
 
 #include<stdio.h>

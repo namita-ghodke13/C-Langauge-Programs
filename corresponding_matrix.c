@@ -1,11 +1,11 @@
 /*Write a program to accept an mXn matrix and display an m+1 X n+1 matrix such that the
 m+1th row contains the sum of all elements of corresponding row and the n+1th column 
 contains the sum of elements of the corresponding column.
-Example :      A                         B
-               1   2   3                 1    2    3    6
-               4   5   6                 4    5    6    15
-               7   8   9                 7    8    9    24     
-                                         12   15   18   45
+Example :      A                    B
+                   1   2   3             1      2      3      6
+                   4   5   6             4      5      6      15
+                   7   8   9             7      8      9      24     
+                                            12    15    18    45
 */
 
 #include<stdio.h>

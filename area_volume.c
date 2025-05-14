@@ -1,5 +1,5 @@
 /*Write a program to calculates the area of a circle using a function and uses this 
-function to calculate the area of a cylinder using another function.Add another 
+function to calculate the area of a cylinder using another function. Add another 
 function to calculate the volume of sphere and display it.*/
 
 #include<stdio.h>
